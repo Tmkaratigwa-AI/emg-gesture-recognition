@@ -30,3 +30,8 @@ Example accuracies (may vary):
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+2. Upload the dataset zip file to the /content/ directory (if using Colab) or place it in the project root.
+3. Run the main script:
+bash
+python main.py
+4. Results and plots will be saved as pipeline_results.png.
